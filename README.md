@@ -19,7 +19,7 @@
       <img src="https://img.icons8.com/fluency/48/000000/internet.png" alt="Portfolio" width="45" height="45" style="border-radius: 50%;" />
     </a> -->
     &nbsp;&nbsp;
-    <a href="https://hackerrank.com/ramath" target="_blank">
+    <a href="https://hackerrank.com/ramath_perera08" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="45" height="45" style="border-radius: 50%; object-fit: contain; background: white; padding: 2px;" />
     </a>
   </p>
