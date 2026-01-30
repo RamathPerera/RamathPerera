@@ -50,14 +50,14 @@
 <br />
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RamathPerera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamathPerera&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamathPerera&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
-</div>
+</div> -->
 
 <br />
 
